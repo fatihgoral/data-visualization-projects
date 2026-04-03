@@ -32,3 +32,4 @@ Notebook'ları kendi ortamınızda çalıştırmak için aşağıdaki adımları
 1. Gerekli kütüphaneleri yükleyin:
    ```bash
    pip install pandas numpy matplotlib seaborn
+   
